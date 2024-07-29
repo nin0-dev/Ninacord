@@ -1,5 +1,4 @@
 {
-    // a
     "root": true,
     "parser": "@typescript-eslint/parser",
     "ignorePatterns": ["dist", "browser"],
