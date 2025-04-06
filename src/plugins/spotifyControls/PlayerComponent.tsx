@@ -200,6 +200,7 @@ function SeekBar() {
                     seek(v);
                 }}
                 renderValue={msToHuman}
+                key={position}
             />
             <Forms.FormText
                 variant="text-xs/medium"
